@@ -1,0 +1,22 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : May 12, 2017, 9:36:00 AM
+    Author     : mutasem
+*/
+
+div.movie-div{
+    padding:10px;
+/*    display:flex;
+    flex-direction: column;*/
+    width:30%;
+}
+
+div.all-movies{
+    display:flex;
+    flex-wrap: wrap;
+}
+
